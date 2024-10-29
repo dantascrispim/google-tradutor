@@ -34,7 +34,7 @@ Este serviço é uma verdadeira revolução na comunicação global, facilitando
   Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
 🌐 Confira Meu Projeto: 
-  Você pode ver o projeto ao vivo aqui: 
+  Você pode ver o projeto ao vivo aqui: https://google-tradutor.vercel.app/
 
 📫 Como Me Encontrar: 
 
